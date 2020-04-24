@@ -13,9 +13,10 @@
     "test": "jest"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
     "@nuxtjs/axios": "^5.3.6",
-    "@nuxtjs/dotenv": "^1.4.0"
+    "@nuxtjs/dotenv": "^1.4.0",
+    "nuxt": "^2.0.0",
+    "signature_pad": "^3.0.0-beta.3"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
