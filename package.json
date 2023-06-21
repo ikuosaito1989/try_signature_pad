@@ -15,7 +15,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "signature_pad": "^3.0.0-beta.3"
   },
   "devDependencies": {
